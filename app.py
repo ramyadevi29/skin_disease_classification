@@ -100,11 +100,10 @@ st.markdown("""
 # =====================================================
 
 MODEL_PATH = (
-    "/content/final_improved_model/"
-    "skin_disease_convnext_tiny_improved.keras"
+    "skin_disease_convnext_tiny_improved (1).keras"
 )
 
-CLASS_PATH = "/content/final_improved_model/class_names.json"
+CLASS_PATH = "class_names.json"
 
 # =====================================================
 # LOAD MODEL
