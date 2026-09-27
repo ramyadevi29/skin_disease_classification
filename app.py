@@ -224,7 +224,7 @@ st.markdown("""
 
 <p>
 AI-Based Skin Disease Classification using
-ConvNeXt-Tiny and Transfer Learning
+Deep Learning
 </p>
 
 </div>
