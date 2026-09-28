@@ -508,7 +508,7 @@ st.write(
 )
 
 # Put your NEW OpenCage API key here
-OPENCAGE_API_KEY = "92f5c00ab7f042fb8c9a32baa231ce84"
+OPENCAGE_API_KEY = st.secrets["827b12a5994b4c7f838b6470a13de8c6"]
 
 
 def get_coordinates(place_name):
