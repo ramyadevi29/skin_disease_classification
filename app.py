@@ -47,7 +47,7 @@ st.markdown("""
 }
 
 .result-box {
-    background: white;
+    background: #E8F4FF;
     padding: 25px;
     border-radius: 18px;
     border: 1px solid #dce5ee;
