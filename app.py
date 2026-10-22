@@ -359,7 +359,7 @@ if uploaded_file is not None:
     st.markdown("---")
 
     st.markdown(
-        "## 🩺 Severity Assessment"
+        "## 🩺 disease siverity prediction"
     )
 
     severity_col, area_col = st.columns(2)
