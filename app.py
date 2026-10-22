@@ -222,8 +222,7 @@ st.markdown("""
 <h1>🩺 SkinCare AI</h1>
 
 <p>
-AI-Based Skin Disease Classification using
-Deep Learning
+AI-Based Skin Disease Classification
 </p>
 
 </div>
